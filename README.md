@@ -6,4 +6,4 @@ This is achieved by using meaningful emojis to label a subset of the tweets. A m
 
 The results are remarkable. The graph below shows the fraction of tweets associated with positive emotions over time.
 
-!(images/electrocat.png)
+!(graph_fraction_positives.png)
